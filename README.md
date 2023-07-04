@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 - 🎓 I'm currently a Software Trainee at changeCX.
-- 📚 Currently learning NodeJs.
+- 📚 Currently working on MERN Stack.
 - ⚡️ Understanding and practicing DSA everyday.
 - 🔎 I'm looking forward to contribute to some open source projects.
 - 💬 Ask me about anything [**here!**](https://github.com/iterator1114/iterator1114/issues)
