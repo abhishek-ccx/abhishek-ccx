@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-- 🎓 I'm currently a Engineer - L1 - Technology at changeCX.
+- 🎓 I'm currently a Software Developer at changeCX.
 - 📚 Currently working on MERN Stack.
 - ⚡️ Understanding and practicing DSA everyday.
 - 🔎 I'm looking forward to contribute to some open source projects.
